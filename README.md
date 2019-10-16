@@ -26,4 +26,4 @@ Bonous command below. Enter and see what it does:
 
 ``` node liri.js do-what-it-says```
 
-![Image of concert-this command](images/do-what-it-says.png)
+![Image of concert-this command](images/do-what-it-says.png)# LIRIbot
