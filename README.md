@@ -20,7 +20,7 @@ To retrieve movie info from your favorite film enter:
 
 ``` node liri.js movie-this <enter movie name>```
 
-PLaceholder for Image 3 
+Placeholder for Image 3 
 
 Bonous command below. Enter and see what it does:
 
