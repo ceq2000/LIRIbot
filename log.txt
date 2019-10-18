@@ -31,3 +31,29 @@ do-what-it-says
     Track: I Want It That Way
     Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6aec2e5ae4cd4bd7a5b525f74851c8ed
     Album: The Hits--Chapter One
+
+
+spotify-this-song
+
+
+    Artist: Pantones
+    Track: The Sign - Ace Of Base Cover
+    Preview: https://p.scdn.co/mp3-preview/b776967c99853086b23b79ae3c83db64a4b2cfda?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: ¿Quién Quiere Primavera ?
+            
+spotify-this-song piano man
+
+
+    Artist: Billy Joel
+    Track: Piano Man
+    Preview: https://p.scdn.co/mp3-preview/7f1dc0e2f56c946849ac2e61dfa1ce827fb8dc70?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Piano Man (Legacy Edition)
+            
+spotify-this-song stairway to heaven
+
+
+    Artist: Led Zeppelin
+    Track: Stairway to Heaven - Remaster
+    Preview: https://p.scdn.co/mp3-preview/8226164717312bc411f8635580562d67e191a754?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Led Zeppelin IV (Deluxe Edition)
+            

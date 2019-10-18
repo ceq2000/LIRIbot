@@ -1,5 +1,6 @@
 //Required 
 require("dotenv").config();
+const config = require("./env.js");
 var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
@@ -7,12 +8,16 @@ var fs = require("fs");
 //For Spotify keys
 const env = process.env;
 
+const {id, secret} = config
+
+
 var Spotify = require('node-spotify-api');
 
-var spotify = new Spotify({
-    id: env.SPOTIFY_ID,
-    secret: env.SPOTIFY_SECRET
-});
+
+var spotify = new Spotify({ 
+    id, 
+    secret}
+);
 
 
 //Input on CLI
